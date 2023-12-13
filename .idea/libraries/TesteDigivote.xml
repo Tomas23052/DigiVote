@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TesteDigivote">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TesteDigivote.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
